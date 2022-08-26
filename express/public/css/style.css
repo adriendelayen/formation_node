@@ -1,0 +1,19 @@
+html {
+    background-color: rgb(170, 170, 170);
+    color: black;
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: rgb(47, 0, 255);
+}
+
+nav{
+    display: flex;
+}
+
+a{
+    align-items: center;
+    justify-content: space-between;
+}
